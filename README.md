@@ -2,7 +2,7 @@
 
 🎓 Студент / начинающий разработчик  
 💻 Изучаю Python и базы данных  
-📍 Riga, Latvia  
+📍 Kazakhstan,Almaty
 
 ---
 
