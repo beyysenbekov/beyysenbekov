@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Привет, я Daryn
 
-<!--
-**beyysenbekov/beyysenbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент / начинающий разработчик  
+💻 Изучаю Python и базы данных  
+📍 Riga, Latvia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои навыки
+- Python (базовый уровень)
+- SQL (PostgreSQL)
+- Алгоритмы и сортировки
+- Работа с файлами
+
+---
+
+## 📂 Мои проекты
+
+### 🔹 Генератор случайных чисел
+```python
+import random
+
+def write_random_numbers(n):
+    with open("random.txt", "w") as f:
+        for _ in range(n):
+            f.write(f"{random.randint(111,777)}\n")
