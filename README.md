@@ -116,7 +116,7 @@ if types == "шифрование":
 elif types == "дешифрование":
     deshifr(language,k)
 ```
-### Угадайка слов
+### 🔹Угадайка слов
 ```python
 import random
 
